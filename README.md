@@ -1,2 +1,2 @@
 # HouseArea-Price-Prediction
-Hands-on data science projects using Python, machine learning, Tableau, and Excel. Includes real-world applications like price prediction, digit recognition, and healthcare analytics. Covers end-to-end workflows from data cleaning to model deployment.
+Machine learning project to predict house prices based on features like area, number of bedrooms, and age. Built using Python, Pandas, and scikit-learn with data visualization using Matplotlib. Implements both simple and multivariable linear regression models.
